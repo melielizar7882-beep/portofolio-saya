@@ -1,0 +1,6 @@
+{
+  "name": "Vitality Nutrition",
+  "description": "Transformasi kesehatan melalui nutrisi yang tepat with personalized consultation, meal planning, and nutrition calculators.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
